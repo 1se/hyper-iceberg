@@ -1,0 +1,18 @@
+{
+  "name": "hyper-iceberg",
+  "version": "0.1.0",
+  "description": "A port of the iceberg vim/terminal scheme for hyperterm",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "iceberg",
+    "colorscheme"
+  ],
+  "author": {
+	"name": "1se",
+	"email": "1se@1se.space",
+	"url": "https://1se.space"
+  },
+  "license": "MIT"
+}
