@@ -1,7 +1,11 @@
 {
   "name": "hyper-iceberg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A port of the iceberg vim/terminal scheme for hyperterm",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/1se/hyper-iceberg.git"
+  },
   "main": "index.js",
   "keywords": [
     "hyper",
