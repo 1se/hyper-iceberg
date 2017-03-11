@@ -1,6 +1,6 @@
 # Bringing iceberg to hyper!
 
-This is a port of the wonderful [iceberg](https://github.com/cocopon/iceberg.vim) vim and terminal color scheme by [cocopon](https://github.com/cocopon/iceberg.vim) for [Hyper](https://hyper.is/)!
+This is a port of the wonderful [iceberg](https://github.com/cocopon/iceberg.vim) vim and terminal color scheme by [cocopon](https://github.com/cocopon) for [Hyper](https://hyper.is/)!
 
 ![Screenshot](./img/screenshot.png)
 
