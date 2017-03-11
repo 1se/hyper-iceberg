@@ -17,3 +17,5 @@ Lastly, reload/restart Hyper and you should be all set! :)
 ---
 
 Font used in the screenshot: [Iosevka Term](https://github.com/be5invis/Iosevka)
+
+I personally use [hyperterm-cursor](https://github.com/alvaropinot/hyperterm-cursor) so I can see what's underneath at all times
