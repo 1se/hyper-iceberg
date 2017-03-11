@@ -6,7 +6,7 @@ This is a port of the wonderful [iceberg](https://github.com/cocopon/iceberg.vim
 
 This a very basic port right now. No fitting border colors or any other CSS is defined within the package, just the colors.
 
-To install this, add `hyper-icerberg` to your `.hyper.js`'s plugin section, like so:
+To install this, add `hyper-iceberg` to your `.hyper.js`'s plugin section, like so:
 ```
 plugins: [
   'hyper-iceberg'
