@@ -2,7 +2,7 @@
 
 [cocopon](https://github.com/cocopon), the original author of the Iceberg theme, has created an *official* port of the theme. You can find it over at [cocopon/hyper-iceberg](https://github.com/cocopon/hyper-iceberg).
 
-Downloading the official version via adding `hyper-iceberg` to your hyper config should be available shorty.
+Downloading the official version via adding `hyper-iceberg` to your hyper config should be available shortly.
 ___
 
 # Bringing iceberg to hyper!
