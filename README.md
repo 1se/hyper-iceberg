@@ -1,3 +1,10 @@
+# THIS IS NOW DEPRECATED
+
+[cocopon](https://github.com/cocopon), the original author of the Iceberg theme, has created an *official* port of the theme. You can find it over at [cocopon/hyper-iceberg](https://github.com/cocopon/hyper-iceberg).
+
+Downloading the official version via adding `hyper-iceberg` to your hyper config should be available shorty.
+___
+
 # Bringing iceberg to hyper!
 
 This is a port of the wonderful [iceberg](https://github.com/cocopon/iceberg.vim) vim and terminal color scheme by [cocopon](https://github.com/cocopon) for [Hyper](https://hyper.is/)!
